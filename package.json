@@ -1,0 +1,20 @@
+{
+  "name": "odin-bst",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AndrewHeckman/odin-bst#readme",
+  "bugs": {
+    "url": "https://github.com/AndrewHeckman/odin-bst/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewHeckman/odin-bst.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
